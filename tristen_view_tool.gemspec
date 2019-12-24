@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for application}
   spec.description   = %q{Generate HTML data}
-  spec.homepage      = "devcamp.com"
+  spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
   spec.metadata["homepage_uri"] = spec.homepage
